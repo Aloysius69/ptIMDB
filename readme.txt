@@ -1,12 +1,12 @@
 /*
 Plugin Name: ptimdb
-Plugin URI: http://www.alakhnor.com/post-thumb
+Plugin URI: none atm
 Description: This plugin adds a button in the editor to search for IMDb movie title & id.
-Author: Alakhnor
+Author: Aloysius 
 Version: 1.00
-Author URI: http://www.alakhnor.com/post-thumb
+Author URI: none atm
 
-Copyright 2007  Alakhnor (email : alakhnor@wanadoo.fr)
+Copyright 2011  Aloysius (email : mo.ni.ca.phi69@gmail.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
